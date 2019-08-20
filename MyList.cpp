@@ -1,3 +1,7 @@
+//Author: Dominic Samo
+//Institution: University of Eswatini
+//Majors: B.SC. Computer Science & Physics
+
 #include "StdAfx.h"
 #include <iostream>
 #include "MyList.h"

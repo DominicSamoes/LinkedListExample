@@ -1,4 +1,7 @@
 #pragma once
+//Author: Dominic Samo
+//Institution: University of Eswatini
+//Majors: B.SC. Computer Science & Physics
 
 typedef  char* DataType;
 

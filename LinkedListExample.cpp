@@ -1,4 +1,8 @@
 // LinkedList Example : Console Application
+//Author: Dominic Samo
+//Institution: University of Eswatini
+//Majors: B.SC. Computer Science & Physics
+
 #include "stdafx.h"
 #include "MyList.h" 
 #include <iostream>
